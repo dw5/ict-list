@@ -44,4 +44,4 @@ title: FREE Storage providers
 | MiMedia              | 10 GB        | No             |                     | Their website dont have valid SSL cert |
 
 
-<script src='{{ site.baseurl }}/public/js/tablesort.js'></script>
+<script src='{{ '/public/js/tablesort.js' | absolute_url }}'></script>

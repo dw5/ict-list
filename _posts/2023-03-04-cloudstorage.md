@@ -3,7 +3,7 @@ layout: post
 title: Paid Storage providers
 ---
 
-<script src='{{ site.baseurl }}/public/js/tablesort.js'></script>
+<script src='{{ '/public/js/tablesort.js' | absolute_url }}'></script>
 
 | Provider                                            | Free Storage / BW | rclone support | 1GB/Month | 1TB/month | DL Bandwith GB | Extra/Notes |
 | --------------------------------------------------- | ----------------- | -------------- | --------- | --------- | ----------- | ----------- |
