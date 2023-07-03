@@ -3,7 +3,7 @@ title:               ICT-List
 tagline:             'Internet Comparison Table - List'
 description:         'Domain registars, cloud storage, CDN, Internet Comparison Table - List'
 url:                 https://dw5.github.io/ict-list
-baseurl:             ''
+baseurl:             'https://dw5.github.io/ict-list'
 paginate:            5
 permalink:           pretty
 
