@@ -18,7 +18,7 @@ title: FREE Storage providers
 | Adobe Document Cloud | 2 GB         | No             | never               | FIle type should be document           |
 | pCloud               | 10 GB        | Yes            | 6 months            |                                        |
 | IceDrive             | 10 GB        | Yes, WebDAV    | 1 year              |                                        |
-| Storj                | 150 GB       | Yes            |                     |                                        |
+| Storj                | 25 GB ~~150~~| Yes            |                     |                                        |
 | cloud.mail.ru        | 8 GB         | Yes            |                     | 150 GB Transfer per month              |
 | Yandex Disk          | 5 GB         | Yes            |                     |                                        |
 | Koofr                | 10 GB        | Yes            |                     |                                        |
