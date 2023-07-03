@@ -3,7 +3,6 @@ layout: post
 title: Paid Storage providers
 ---
 
-<script src='{{ '/public/js/tablesort.js' | absolute_url }}'></script>
 
 | Provider                                            | Free Storage / BW | rclone support | 1GB/Month | 1TB/month | DL Bandwith GB | Extra/Notes |
 | --------------------------------------------------- | ----------------- | -------------- | --------- | --------- | ----------- | ----------- |
@@ -14,3 +13,12 @@ title: Paid Storage providers
 | Hetzner storagebox                                  | 0 gb              | SMB, FTP, SFTP, WEBDAV | - *from 0.003125*   |  from  3.20  |  0.00     |  monthly only, connection limit  |
 | Hetzner Storageshare (nextcloud)                    | 0 gb              | WEBDAV         | - *from 0.00418*  |  from  4.29  |  0.00      |  Can prepay up to a year, connection limit  |
 | Wasabi | 0 gb | S3 | - *aka 0.0069* | 6.99 | 0.00 | Fair usage free egress, minimum storage duration policy (90 days) [source](https://wasabi.com/paygo-pricing-faq/)
+
+
+
+
+
+
+
+
+<script src='{{ '/public/js/tablesort.js' | absolute_url }}'></script>
