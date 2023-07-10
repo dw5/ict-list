@@ -3,6 +3,7 @@ layout: post
 title: Paid Storage providers
 ---
 
+<div class="table-wrapper" markdown="block">
 
 | Provider                                            | Free Storage / BW | rclone support | 1GB/Month | 1TB/month | DL Bandwith GB | Extra/Notes |
 | --------------------------------------------------- | ----------------- | -------------- | --------- | --------- | ----------- | ----------- |
@@ -19,6 +20,6 @@ title: Paid Storage providers
 
 
 
-
+</div>
 
 <script src='{{ '/public/js/tablesort.js' | absolute_url }}'></script>

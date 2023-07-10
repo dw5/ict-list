@@ -42,8 +42,8 @@ body {
 }
 
 /* Unprevent scroll on narrow devices for markdown tables */
-table {
-overflow-x:auto
+.table-wrapper {
+  overflow-x: scroll;
 }
 
 html {

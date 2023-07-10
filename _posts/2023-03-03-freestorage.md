@@ -3,6 +3,7 @@ layout: post
 title: FREE Storage providers
 ---
 
+<div class="table-wrapper" markdown="block">
 
 | Provider             | Free Storage | rclone support | Inactivity deletion | Note                                   |
 | -------------------- | ------------ | -------------- | ------------------- | -------------------------------------- |
@@ -43,5 +44,6 @@ title: FREE Storage providers
 | Terabox              | 1024 GB      | No             |                     | Limits download speed, Ads, etc        |
 | MiMedia              | 10 GB        | No             |                     | Their website dont have valid SSL cert |
 
+</div>
 
 <script src='{{ '/public/js/tablesort.js' | absolute_url }}'></script>
