@@ -3,7 +3,7 @@ layout: post
 title: FREE Storage providers
 ---
 
-<div style='overflow-x:auto'>
+
 | Provider             | Free Storage | rclone support | Inactivity deletion | Note                                   |
 | -------------------- | ------------ | -------------- | ------------------- | -------------------------------------- |
 | OneDrive             | 5 GB         | Yes            | never               |                                        |
@@ -42,6 +42,6 @@ title: FREE Storage providers
 | Degoo                | 100 GB       | No             | 3 mo                | Bad reviews                            |
 | Terabox              | 1024 GB      | No             |                     | Limits download speed, Ads, etc        |
 | MiMedia              | 10 GB        | No             |                     | Their website dont have valid SSL cert |
-</div>
+
 
 <script src='{{ '/public/js/tablesort.js' | absolute_url }}'></script>
